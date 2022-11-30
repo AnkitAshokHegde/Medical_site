@@ -1,0 +1,261 @@
+.otp{
+    display: flex;
+}
+
+.otp button{    
+    margin:auto;    
+    margin-top: 2rem;
+}
+
+.checkbox-register{
+    margin-top:4rem;
+}
+
+.checkbox-login{
+    margin-top:1rem;
+}
+
+.login-toggle-container{
+	display: flex;	
+	justify-content: space-evenly;
+    padding: 0rem;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 5%;
+	border: solid 1px rgb(0, 0, 0,0.1);
+    border-width: 0.3rem;
+    border-left: 0rem;
+    border-right: 0rem;
+    border-top: 0rem;
+        
+}
+
+.login-toggle{
+	color:red;	
+}
+
+.toggle-line{
+    /* border: solid 0.2rem rgb(6, 169, 180);     */
+    border:solid 0.2rem ;
+}
+
+/* 
+.form-group .form-focus .input-1{
+    margin-bottom:3.75rem;
+} */
+
+.row .row-cols .justify-content-evenly #image-boxes{
+    margin-top:1rem;    
+    
+}
+
+#vendor-register{
+    border-bottom: 0rem;
+    margin:auto;
+    justify-content: space-evenly;
+    /* border: 1px solid rgb(211, 22, 195); */
+    width: 700px;    
+}
+
+#vendor-block{
+    margin-left:-10px;
+}
+
+/* .register-toggle */
+ #vendor-register #vendor-register-block{    
+    margin-left: 24rem;
+}
+
+.contact-email-container {
+    display:flex;
+}
+
+.input-group-text{
+    height: 3rem;
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+/* .has-submenu > #consultation-description{ */
+    .submenu  #consultation-description ul li{    
+    background-color: red;  
+}
+
+.main-nav > li .submenu li a  #consultation-description{
+    background-color: red;
+}
+
+.submenu > #consultation-dropdown li{
+    /* display:grid;
+    grid-template-columns: repeat(2, max-content); */
+    background-color: red;
+}
+
+.main-nav > li .submenu li a {
+    background-color: violet;
+  }
+
+.submenu #consultation-dropdown-id {    
+    color:brown;
+}
+
+/* html body div.main-wrapper header.header nav.navbar.navbar-expand-lg.header-nav div.main-menu-wrapper ul.main-nav li.has-submenu.consultation-dropmdown ul#consultation-dropdown-id.submenu */
+
+/* #consultation-dropdown-id */
+
+.sidebar li .submenu{ 
+	list-style: none; 
+	margin: 0; 
+	padding: 0; 
+	padding-left: 1rem; 
+	padding-right: 1rem;
+}
+
+#search-button-id{
+    height: 3rem;
+}
+
+.carousel {   
+    margin-top: 1.75rem;
+}
+
+#hospital-info{
+    display: flex;
+    justify-content:space-evenly;
+    border:1px solid crimson;
+}
+
+#hospital-info-card-id{
+    /* border:1px solid crimson; */
+    width:67rem;
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-hospital-info #hospital-info-card-id{
+    display:flex;
+    margin-left: 10rem;    
+}
+
+.hospital-details{
+    /* border:1px solid crimson; */
+    display: flex;
+    flex-direction: column;    
+}
+
+.hospital-navigation{
+    margin-top:4rem;
+    /* border:1px solid violet; */
+}
+
+.slider-form .form-group{ 
+    /* background-color: red; */
+    border-radius: 0rem;
+}
+
+#img-button{
+    margin-top: 0rem;
+}
+
+#location-section-id{
+    background : #fff url(../img/location.png) no-repeat 10px center;
+    padding-left: 3rem;
+    border-radius:0%;
+}
+
+#search-section-id{
+    background : #fff url(../img/search.png) no-repeat 10px center;
+    padding-left: 3rem;
+    border-radius:0%;
+}
+
+#search-bar-container{
+    background-image: url(../img/banner-7.jpg);    
+    justify-content: center;    
+    /* border: 1px solid red; */
+}
+
+#search-bar-container-1{       
+    justify-content: center;
+    /* border: 1px solid violet; */
+}
+
+#search-button-id-1{
+    border-radius: 0%;
+    height: 2.85rem;
+}
+
+#doctors-details-nav{    
+    padding-left: 17%;
+    margin-right: 17%;
+}
+
+#hospital-card-id{    
+    /* border: 3px solid salmon; */
+    width:66.8rem;
+    align-items: center;
+}
+
+#hospital-card-id-1{
+    width: 50rem;
+    margin-left:25%;      
+    margin-top:0rem;  
+}
+
+#hospital-card-id-1-1{    
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0rem;
+}
+
+#hospital-search{
+    border:0px ;
+}
+
+#search-bar-container-2{
+    background-image: none;
+    /* border:1px solid red; */
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+
+}
+
+#search-bar-container-1{
+    margin-top: 7rem;
+    margin-bottom: 6.5rem;
+}
+
+#basic-info-container{
+    margin-top: 2.5rem;
+}
+
+#accordionConsultation{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+#button-index .col {   
+    margin-left:30rem;
+}
+
+#button-index{    
+    margin: 3rem;
+    width: 100%;
+}
+
+.row #button-index-1{
+    margin:-5rem;    
+}
+
+#button-index-1{
+    margin-left:-17rem !important;
+}
+
+#index-symptoms{
+    padding-left: 5rem !important;
+    padding-bottom: 0%;
+  }
