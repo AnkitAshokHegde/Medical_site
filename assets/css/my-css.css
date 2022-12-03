@@ -78,7 +78,7 @@
 }
 
 /* .has-submenu > #consultation-description{ */
-    .submenu  #consultation-description ul li{    
+    .submenu  #consultation-description ul li {    
     background-color: red;  
 }
 
@@ -259,3 +259,39 @@
     padding-left: 5rem !important;
     padding-bottom: 0%;
   }
+
+.mega-menu{
+            display:flex;  
+            z-index: 100;            
+}
+
+.mega-menu-1{
+            border-left: 2px solid black;            
+            position:relative;                        
+}
+
+.z-index-promoter{
+    z-index:-1;
+}
+
+.mega-menu-headings{
+    display: flex;
+    justify-content: center;    
+}
+
+table, table:hover, table:active, table:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+.mega-menu:hover, .mega-menu:active{
+    outline: none;
+    text-decoration: none;
+}
+
+.main-nav li .submenu .mega-menu:hover {
+    color: #09dca4;
+    letter-spacing: 0.5px;
+    padding-left: 20px;
+}
+
